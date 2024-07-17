@@ -62,13 +62,9 @@ If you enter a new month and have a negative "To Be Budgeted" amount and you're 
 
 ### Overspending
 
-When you overspend in a category, that needs to rollover as well. You spent money that wasn't budgeted, so now you need to go back and take it out from somewhere. Doing this keeps your budget intact.
+When you spend money that wasn't budgeted, the overspending needs to come from somewhere. This is a fundamental principle of budgeting. By default, Actual treats overspending as a rollover.
 
-One way to do this would be to simply roll it over into next month's budget for that category, subtracting it from the available amount. This hardly ever works in real life — if you have a food budget it's highly unlikely you'll be able go under it next month just because you overspent.
-
-Usually you have a couple places that you draw money from to cover overspending. To make it easy, **all overspending is automatically taken out of next month's To budget amount**, and category balances are reset to zero. This makes it easy to make up for it by reducing your budget in some other category (like savings).
-
-If there is money leftover in a category at the end of a month, it simply rolls over into the category's balance next month.
+In Actual, **all overspending is automatically taken out of next month's To budget amount**, and negative category balances are reset to zero each month. Any money leftover in a category at the end of a month rolls over into the category's balance the following month. As we will see below, another method to cover overspending is to move money within a month's budget. 
 
 ## Working with the budget
 
